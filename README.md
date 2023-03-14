@@ -1,4 +1,4 @@
-# Computer Science courses with video lectures
+# Computer Science courses with video lectures and extra notes
 
 ## Introduction
 
